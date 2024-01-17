@@ -24,7 +24,7 @@ git clone https://github.com/Antinii/Projet-7.git
 ```
 Déplacez vous dans le dossier du repository avec:
 ```
-cd '.\Projet_7\'
+cd '.\Projet-7\'
 ```
 Pour l'algorithme bruteforce:
 ```
