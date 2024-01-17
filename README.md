@@ -20,7 +20,7 @@ Vous devez avoir préalablement Python 3.11 installé ainsi qu'un IDE (PyCharm o
 
 Placez vous dans le répertoire souhaité puis clonez le repository:
 ```
-git clone https://github.com/Antinii/Projet_7.git
+git clone https://github.com/Antinii/Projet-7.git
 ```
 Déplacez vous dans le dossier du repository avec:
 ```
